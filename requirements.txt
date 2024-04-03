@@ -1,0 +1,12 @@
+fastapi
+pydantic
+scikit-learn
+pandas
+numpy
+typing
+enum
+model_trainers
+datetime
+tensorflow
+openai==0.12.5
+python-dotenv==0.19.2
